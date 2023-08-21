@@ -3,7 +3,7 @@
 https://github.com/cjwhaogaoleng/NineSquareGridView/assets/117556474/22c01161-3f4b-47f6-8eb5-036c91ee918e
 
  ## 源码位置
-/app/src/main/java/com/example/textcolorchange/NineSquareGridView.kt
+/app/src/main/java/com/example/ninesquaregridview/NineSquareGridView.kt
 
  ## 代码讲解
   ### java
